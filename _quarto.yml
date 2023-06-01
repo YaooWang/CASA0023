@@ -1,15 +1,24 @@
 project:
   type: book
+  output-dir: docs
 
 book:
-  title: "CASA0023"
-  author: "Jane Doe"
-  date: "2023/6/1"
+  title: "LearningDiary"
+  author: "Yao Wang"
+  date: "2023/1/30"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - Summary.qmd
+    - Gettingstartedwithremotesensing.qmd
+    - Portfolio.qmd
+    - Corrections.qmd
+    - Policy.qmd
+    - GoogleEarthEngine.qmd
+    - Classification1.qmd
+    - Classification2.qmd
+    - Temperature.qmd
     - references.qmd
+    
 
 bibliography: references.bib
 
