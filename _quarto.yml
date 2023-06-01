@@ -8,7 +8,6 @@ book:
   date: "2023/1/30"
   chapters:
     - index.qmd
-    - Summary.qmd
     - Gettingstartedwithremotesensing.qmd
     - Portfolio.qmd
     - Corrections.qmd
@@ -25,6 +24,7 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+    
   pdf:
     documentclass: scrreprt
 
