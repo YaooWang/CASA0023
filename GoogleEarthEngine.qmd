@@ -8,7 +8,7 @@ In this week we learned about the Google Earth Engine, including its set up, bas
 
 ## Application
 
-Google Earth Engine provides a variety of capabilities to perform spatial and spectral operations on a single image or a batch of images. These operations have great potential to be implemented in parallel on a cloud architecture, as shown in the figure below[@amani2020] . .
+Google Earth Engine provides a variety of capabilities to perform spatial and spectral operations on a single image or a batch of images. These operations have great potential to be implemented in parallel on a cloud architecture, as shown in the figure below[@amani2020].
 
 ![Source: Google Earth Engine Cloud Computing Platform for Remote Sensing Big Data Applications: A Comprehensive Review](image/08.jpg){width="500"}
 

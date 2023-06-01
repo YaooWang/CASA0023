@@ -16,7 +16,7 @@ One application of this is the analysis of remotely sensed imagery through the r
 
 Satellite radar images and ancillary information can also be used in other areas. For example, we can use it to detect flood areas at their peak and evaluates its potential with mapping. The procedure wass tested on the catastrophic flood that occurred in Italy. Two ERS-1 synthetic aperture radar(SAR) images were processed, one acquired one month before the flood and the other acquired three days after the event. Visual interpretation and two different thresholding techniques were performed. The flood map derived shows only a small fraction of the satellite overpass. To overcome this limitation, the authors developed a new method to estimate the flooded area at the peak time by integrating the flooded area from SAR imagery with digital topographic data from GIS technique[@brivio2002].
 
-![Temporal relationships between flood event[@2021uk2021]](image/02.png){width="400"}
+![Temporal relationships between flood event](image/02.png){width="400"}
 
 Some recent studies also shown UAV remote sensing techniques have many applications. Like spatial ecology, forest studies and other monitoring applications('Unmanned aerial vehicles for environmental applications',2017). Before the development of UAVs, the majority of spectral datasets was made by satellites and manned aircraft[@aasen2018a]. By the rapidly developing technology, many new types of sensors make data quality assurance. For example, this picture shows the process from collect information to make data product[@aasen2018b].
 
